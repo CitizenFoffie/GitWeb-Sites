@@ -1,0 +1,33 @@
+
+
+#header
+
+text=MRN
+
+scale=3
+
+
+
+#divider
+
+size=12
+
+color=-65536
+
+
+
+#navigation
+
+color=-7995392
+
+item-link-1=MRN.craft/Article13
+
+item-label-1=Check out a article!
+
+item-icon-1=ARROW_DOWN
+
+
+
+#paragraph
+
+text=This site is a Communist news source....
